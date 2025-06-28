@@ -2,6 +2,8 @@
 
 A Counter-Strike plugin that allows you to change the clan ID of players in the game. The plugin checks every player and, if they do not belong to the desired clan, automatically updates their clan ID. The plugin also respects the exclusion of specific clan IDs, preventing certain players from having their clan ID changed.
 
+![Exm](https://cdn.discordapp.com/attachments/1383531993857261628/1388601964144623687/20250628221756_1.jpg?ex=686193db&is=6860425b&hm=b854aef9dd7c6e38812b87f2ce7eff469367f5a56355da840e0b1db0cb980176&)
+
 ## Features
 
 - Change players' clan ID automatically to the desired one.
